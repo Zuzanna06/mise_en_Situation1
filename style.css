@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#my-header{
+
+    text-align: center;
+    background-color: #18afd1;
+    color: white;
+    background: url("background.jpg");
+    }
+
+#maDiv {
+        display: none;
+        width: 100px;
+        height: 100px;
+}
+    
+#maDiv.active {
+        display: block;
+        width: 250px;
+        height: 250px;
+}
+
+.marge-sup {
+    margin-top: 50px;
+}
+.couleur-1 {
+    background-color: red;
+  }
+  
+.couleur-2 {
+background-color: blue;
+  }
+  
+    
